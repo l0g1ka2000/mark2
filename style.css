@@ -1,0 +1,60 @@
+header img{
+    height: 250px;
+    width: 300px;
+    border: 10px solid black;
+
+}
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+text-align: center;
+color: black;
+}
+
+p {
+color: blue;
+
+
+}
+
+
+h2 {
+    color: orange;
+    height: 30px;
+}
+
+h3  {
+    color: black
+}
+
+
+main {
+background-color: powderblue;
+margin: 0px;
+
+}
+
+body {
+background-color:gainsboro;
+
+}
+nav{
+    margin: 50px 50px;
+}
+nav a {
+    color: black;
+    font-size: 30px;
+    margin: 0px 20px;
+}
+.img1{
+    width: 500px;
+    margin: 40px 0px;
+}
+.vidguk{
+    margin-bottom: 50px;
+    font-size: 30px;
+}
